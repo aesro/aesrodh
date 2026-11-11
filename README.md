@@ -1,2 +1,2 @@
-# aesrodh
-Da Hood Lock ^^ (Working with all executors) C To Lock &lt;3
+# Roblox Lock Lua Script - Universal
+CREDITS TO ECL - This is a universal lock script for roblox, works with all the executors that i tested which includes the low sunc/unc ones, try it yourself! &lt;
