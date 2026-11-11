@@ -1,3 +1,11 @@
+--[[
+    @name        Universal Lock For Roblox - ECL
+    @author      EVL & Aesro
+    @last upd    Never tbf but still works
+
+    https://vexted.ai/ - https://exodium.cc/
+]]
+
 getgenv().Settings = {
     Main = {
         Enable = true,
